@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Jayasinghe</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-jayasinghe" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💬 Ask me about **MEARN, Python, Java**
 
 - 📫 How to reach me **jayasingheshehan1995@gmail.com**
